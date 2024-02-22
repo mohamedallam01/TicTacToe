@@ -29,7 +29,7 @@
  
 </ul>
 <h2>Run the application</h2>
-[Server Reopo](https://github.com/Samuel-Adel/TicTacToe-Server). 
+[Server Repo](https://github.com/Samuel-Adel/TicTacToe-Server). 
  <li>Can Run the compiled JAR file: java -jar TicTacToeClient.jar</li>
   >-jar TicTacToeClient.jar
 <li>client and server both run on the same machine if you want to run them on different machines run the server first and look at the IP and On client at online tab will ask you for the server IP Address.</li>
